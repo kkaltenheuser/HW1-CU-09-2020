@@ -18,7 +18,7 @@ body {
 }
 
 .header h1 {
-  display: inline-flex;
+  display: inline-table;
   font-size: 48px;
   float: left;
 }
@@ -36,12 +36,15 @@ body {
 }
 
 .header div ul {
+  display: block;
   list-style-type: none;
 }
 
 .header div ul li {
-  display: inline-block;
+  display: block;
+  list-style-type: none;
   margin-left: 25px;
+  float: left;
 }
 
 a {
