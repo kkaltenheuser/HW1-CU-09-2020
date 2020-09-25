@@ -38,13 +38,13 @@ body {
 
 .header div ul {
   display: inline;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
 }
 
 .header div ul li {
   display: inline-block;
-  list-style: none;
+  list-style-type: none;
   margin-left: 25px;
   padding: 0;
 }
