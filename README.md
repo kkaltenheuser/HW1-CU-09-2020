@@ -15,3 +15,6 @@ implementation of diverse descriptions vs “image of dog”.
 
 
 // updated ReadMe.md file from original ReadMe.md
+
+![screenshot of fully loaded header](https://github.com/kkaltenheuser/HW1-CU-09-2020/blob/master/Screen%20Shot%202020-10-03%20at%2011.01.53%20AM%20(2).png)
+![screenshot of fully loaded body](https://github.com/kkaltenheuser/HW1-CU-09-2020/blob/master/Screen%20Shot%202020-10-03%20at%2011.02.05%20AM%20(2).png)
