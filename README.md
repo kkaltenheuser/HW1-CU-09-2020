@@ -22,4 +22,4 @@ img: Screenshot of fully loaded header
 img: Screenshot of fully loaded body of page
 
 
-Deployed live url: https://kkaltenheuser.github.io/HW1-CU-09-2020/
+Deployed live url: https://kkaltenheuser.github.io/Semantics-and-Inclusivity-Exp/
